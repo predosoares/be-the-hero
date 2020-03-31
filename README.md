@@ -1,5 +1,6 @@
 # :rocket: Be The Hero
-=========
+
+![logo](assets/logo.png)
 
 ## Objetivo
 Be The Hero é uma aplicação inteiramente feita com javascript do back-end ao front-end e app mobile. O propósito da aplicação é 
@@ -12,7 +13,7 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 - NPM
 - Expo
 
-## Tecnologias
+## Tecnologias Aplicadas
 
 - Node.js
 - SQLite3
@@ -27,5 +28,8 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 - ReactJS
 - React Native ( Expo )
 
-![alt text](assets/webview.gif)
-![alt text](assets/giphy.gif)
+## Demo da Aplicação Web
+![Web Application](assets/webview.gif)
+
+## Demo da Aplicação Mobile
+![Mobile Application](assets/mobileview.gif)
