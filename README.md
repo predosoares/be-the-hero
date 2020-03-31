@@ -13,4 +13,4 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 - Expo
 
 
-<a href="https://imgflip.com/gif/3urr8a">via Imgflip</a>
+("https://imgflip.com/gif/3urr8a")!
