@@ -1,6 +1,25 @@
-# :rocket: Be The Hero
+<h1 align="center">
+    <img alt="Be the Hero" src="frontend/src/assets/logo.svg" width="250px" />
+</h1>
 
-![logo](assets/logo.png)
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Preddo/be-the-hero">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Preddo/be-the-hero">
+  
+  <a href="https://github.com/Preddo/be-the-hero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Preddo/be-the-hero">
+  </a>
+
+  <a href="https://github.com/Preddo/be-the-hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Preddo/be-the-hero">
+  </a>
+</p>
+
 
 ## Objetivo
 Be The Hero é uma aplicação inteiramente feita com javascript do back-end ao front-end e app mobile. O propósito da aplicação é 
@@ -33,3 +52,31 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 
 ## Demo da Aplicação Mobile
 ![Mobile Application](assets/mobileview.gif)
+
+## :computer: Como Executar
+
+#### Clonando o projeto
+```sh
+git clone https://github.com/Preddo/be-the-hero.git
+cd be-the-hero
+```
+#### Iniciando Backend
+```sh
+cd backend
+npm install
+npm start
+```
+#### Iniciando Frontend
+```sh
+cd frontend
+npm install
+npm start
+```
+#### Iniciando mobile
+```sh
+cd mobile
+npm install
+expo start
+```
+
+Feito com ♥ por Pedro Soares 🚀
