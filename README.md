@@ -28,3 +28,4 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 - React Native ( Expo )
 
 ![alt text](assets/webview.gif)
+![alt text](https://gph.is/g/Z7gQKVp)
