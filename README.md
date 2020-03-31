@@ -27,4 +27,6 @@ Para conseguir rodar o projeto em sua máquina é necessário ter as seguintes f
 - ReactJS
 - React Native ( Expo )
 
-("https://imgflip.com/gif/3urr8a")!
+![alt text][logo]
+
+[logo]: https://github.com/Preddo/be-the-hero/assets/webview.gif "Web App"
