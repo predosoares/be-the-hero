@@ -10,14 +10,13 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Preddo/be-the-hero">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Preddo/be-the-hero">
-  
-  <a href="https://github.com/Preddo/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Preddo/be-the-hero">
-  </a>
+</p>
 
-  <a href="https://github.com/Preddo/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Preddo/be-the-hero">
-  </a>
+<p align="center">
+  <a href="#objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requerimentos">Requerimentos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias-aplicadas">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">:computer: Como Executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
